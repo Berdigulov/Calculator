@@ -194,7 +194,6 @@
                 android:id="@+id/btn_equal"
                 android:onClick="onOperationClick"
                 android:text="=" />
-
         </LinearLayout>
 
 
